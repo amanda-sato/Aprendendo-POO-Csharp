@@ -1,0 +1,11 @@
+C:\Users\d011495\OneDrive - Maieutica\2022-2023\2o Semestre\TIWM - POO\Teste Modelo\Reg. Jogadores - Resolvido\Reg. Jogadores\bin\Debug\Reg.Jogadores.exe.config
+C:\Users\d011495\OneDrive - Maieutica\2022-2023\2o Semestre\TIWM - POO\Teste Modelo\Reg. Jogadores - Resolvido\Reg. Jogadores\bin\Debug\Reg.Jogadores.exe
+C:\Users\d011495\OneDrive - Maieutica\2022-2023\2o Semestre\TIWM - POO\Teste Modelo\Reg. Jogadores - Resolvido\Reg. Jogadores\bin\Debug\Reg.Jogadores.pdb
+C:\Users\d011495\OneDrive - Maieutica\2022-2023\2o Semestre\TIWM - POO\Teste Modelo\Reg. Jogadores - Resolvido\Reg. Jogadores\obj\Debug\Reg. Jogadores.csproj.AssemblyReference.cache
+C:\Users\d011495\OneDrive - Maieutica\2022-2023\2o Semestre\TIWM - POO\Teste Modelo\Reg. Jogadores - Resolvido\Reg. Jogadores\obj\Debug\Reg. Jogadores.csproj.SuggestedBindingRedirects.cache
+C:\Users\d011495\OneDrive - Maieutica\2022-2023\2o Semestre\TIWM - POO\Teste Modelo\Reg. Jogadores - Resolvido\Reg. Jogadores\obj\Debug\Reg.Jogadores.Form1.resources
+C:\Users\d011495\OneDrive - Maieutica\2022-2023\2o Semestre\TIWM - POO\Teste Modelo\Reg. Jogadores - Resolvido\Reg. Jogadores\obj\Debug\Reg.Jogadores.Properties.Resources.resources
+C:\Users\d011495\OneDrive - Maieutica\2022-2023\2o Semestre\TIWM - POO\Teste Modelo\Reg. Jogadores - Resolvido\Reg. Jogadores\obj\Debug\Reg. Jogadores.csproj.GenerateResource.cache
+C:\Users\d011495\OneDrive - Maieutica\2022-2023\2o Semestre\TIWM - POO\Teste Modelo\Reg. Jogadores - Resolvido\Reg. Jogadores\obj\Debug\Reg. Jogadores.csproj.CoreCompileInputs.cache
+C:\Users\d011495\OneDrive - Maieutica\2022-2023\2o Semestre\TIWM - POO\Teste Modelo\Reg. Jogadores - Resolvido\Reg. Jogadores\obj\Debug\Reg.Jogadores.exe
+C:\Users\d011495\OneDrive - Maieutica\2022-2023\2o Semestre\TIWM - POO\Teste Modelo\Reg. Jogadores - Resolvido\Reg. Jogadores\obj\Debug\Reg.Jogadores.pdb

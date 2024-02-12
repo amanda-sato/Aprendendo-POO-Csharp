@@ -1,0 +1,11 @@
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Teste Modelo\Reg. Jogadores\Reg. Jogadores\bin\Debug\Reg.Jogadores.exe.config
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Teste Modelo\Reg. Jogadores\Reg. Jogadores\bin\Debug\Reg.Jogadores.exe
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Teste Modelo\Reg. Jogadores\Reg. Jogadores\bin\Debug\Reg.Jogadores.pdb
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Teste Modelo\Reg. Jogadores\Reg. Jogadores\obj\Debug\Reg. Jogadores.csproj.AssemblyReference.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Teste Modelo\Reg. Jogadores\Reg. Jogadores\obj\Debug\Reg. Jogadores.csproj.SuggestedBindingRedirects.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Teste Modelo\Reg. Jogadores\Reg. Jogadores\obj\Debug\Reg.Jogadores.Form1.resources
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Teste Modelo\Reg. Jogadores\Reg. Jogadores\obj\Debug\Reg.Jogadores.Properties.Resources.resources
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Teste Modelo\Reg. Jogadores\Reg. Jogadores\obj\Debug\Reg. Jogadores.csproj.GenerateResource.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Teste Modelo\Reg. Jogadores\Reg. Jogadores\obj\Debug\Reg. Jogadores.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Teste Modelo\Reg. Jogadores\Reg. Jogadores\obj\Debug\Reg.Jogadores.exe
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Teste Modelo\Reg. Jogadores\Reg. Jogadores\obj\Debug\Reg.Jogadores.pdb
